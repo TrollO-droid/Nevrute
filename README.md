@@ -15,12 +15,12 @@ Tool, hızlı ve yavaş mod desteği ile esnek kullanım sunar. Ayrıca Türkçe
 - 📡 Terminal üzerinde gerçek zamanlı deneme çıktıları
 - 💻 Windows & Kali Linux uyumlu
 
-## Klonla / Clone
-
+## Kurulum / Installation
+'''bash
 git clone https://github.com/kullaniciadi/Nevrute.git
 
 cd Nevrute
 
 ## Çalıştır / Run
-
+''''bash
 python Nevrute.py
