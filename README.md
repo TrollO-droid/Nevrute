@@ -11,7 +11,7 @@ Tool, hızlı ve yavaş mod desteği ile esnek kullanım sunar. Ayrıca Türkçe
 - 📝 **Kullanıcıdan parola listesi alma**
 - 🐌 Yavaş mod: Doğruluk odaklı, beklemeli deneme
 - ⚡ Hızlı mod: Hızlı ve agresif deneme
-- 🌍 Türkçe 🇹🇷 ve İngilizce 🇬🇧 dil desteği
+- 🌍 Türkçe 🇹🇷 ve İngilizce 🇪🇳 dil desteği
 - 📡 Terminal üzerinde gerçek zamanlı deneme çıktıları
 - 💻 Windows & Kali Linux uyumlu
 
