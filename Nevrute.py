@@ -93,14 +93,14 @@ def banner(username=None, mode=None):
 
            🛡️ Instagram Brute Force - Created By Troll
 
-""")
+""") #ascii art
 
     if username:
         print(f"\n{_('profile_link')}: https://www.instagram.com/{username}/")
     if mode:
         print(f"{_('selected_mode')}: {mode}\n")
 
-def choose_language():
+def choose_language(): 
     global LANG
     clear()
     print(_( "select_language"))
