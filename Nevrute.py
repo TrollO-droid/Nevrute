@@ -5,7 +5,7 @@ import sys
 
 LANG = "tr" #ana dil
 
-#dil detsegi
+#dil kismi
 texts = {
     "select_language": {
         "tr": "Dil Seçiniz / Select Language:\n1) Türkçe\n2) English",
