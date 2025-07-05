@@ -18,10 +18,10 @@ Tool, hızlı ve yavaş mod desteği ile esnek kullanım sunar. Ayrıca Türkçe
 ## Kurulum / Installation
 <pre>
 git clone https://github.com/kullaniciadi/Nevrute.git
-
 cd Nevrute
 </pre>
 
 ## Çalıştır / Run
-
+<pre>
 python Nevrute.py
+</pre>
