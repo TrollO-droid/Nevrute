@@ -18,6 +18,7 @@ Tool, hızlı ve yavaş mod desteği ile esnek kullanım sunar. Ayrıca Türkçe
 ## Klonla / Clone
 
 git clone https://github.com/kullaniciadi/Nevrute.git
+
 cd Nevrute
 
 ## Çalıştır / Run
